@@ -127,6 +127,12 @@ console.log(v2.mod());
 console.log(v1.egale(v2));
 */
 
+
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+
 class Vecteur{
 	constructor(x,y){
 		this.x=x;
